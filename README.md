@@ -1,10 +1,8 @@
 # Project Name
 
-## Task A - Implementation of design provided by VritTech
+## Implementation of custom JavaScript Carousel
 
-### Carousel Implementation Code using HTML, CSS and JavaScript
-
-This branch contains the files for the implementation of code for the video provided by VritTech as for the task for the frontend developers.
+This branch contains the files for the implementation of the carousel.
 
 ## Installation
 
