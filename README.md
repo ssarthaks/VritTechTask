@@ -1,3 +1,5 @@
 # JS Carousel + React Kanban Board Project 
 
-### Branch- JsCarousel contains the code for the first task with installation guidelines
+### Branch- Jscarousel contains the code for the plain javascript carousel with installation guidelines
+
+### Branch- Kanbanboard contains the code for kanban board project with guidelines
