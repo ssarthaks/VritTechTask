@@ -1,3 +1,3 @@
-# VritTechTask
+# JS Carousel + React Kanban Board Project 
 
-### Branch- TaskA contains the code for the first task with installation guidelines
+### Branch- JsCarousel contains the code for the first task with installation guidelines
